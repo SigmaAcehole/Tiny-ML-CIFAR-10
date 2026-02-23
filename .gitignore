@@ -1,0 +1,8 @@
+*.tar
+.torch/
+tinyml/
+XAutoDL/
+data
+*.pt
+*.pth
+*.onnx
