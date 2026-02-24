@@ -1,0 +1,11 @@
+git+https://github.com/D-X-Y/AutoDL-Projects.git
+nats_bench
+
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
+
+onnx
+onnxruntime
+onnxruntime-tools
