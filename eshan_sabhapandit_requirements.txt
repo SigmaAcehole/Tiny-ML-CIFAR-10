@@ -5,7 +5,9 @@ nats_bench
 torch
 torchvision
 torchaudio
+torchsummary
 
+matplotlib
 onnx
 onnxruntime
 onnxruntime-tools
