@@ -30,13 +30,3 @@ pip install -r requirements.txt
 ```
 
 6. Run the jupyter notebook. It can be run with and without training the model. More details are mentioned in the notebook.
-
-
-
-
-
-git clone --recurse-submodules https://github.com/D-X-Y/AutoDL-Projects.git XAutoDL
-pip install XAutoDL/
-pip install nats_bench
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-pip install onnx onnxruntime onnxruntime-tools
