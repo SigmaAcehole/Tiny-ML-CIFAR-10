@@ -2,6 +2,8 @@
 - Tested on Windows 11 and Ubuntu 22.04 LTS
 - Python 3.11
 - CUDA 12.1
+- Training: NVIDIA RTX3050 GPU
+- Inference: AMD Ryzen 5 5600H CPU
 
 ## Setup
 
